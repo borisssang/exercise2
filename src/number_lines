@@ -1,5 +1,5 @@
 1   # script for numbering the lines of a file
 2   # modify this script to prepend the next number to each line of the input file
-3   cat $1
-:%s/^/\=printf('%-4d', line('.'))
+3   cat $1 -n
+
 
