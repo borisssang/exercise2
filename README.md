@@ -12,6 +12,6 @@
 
 5 Merge the newer_master branch into your branch and resolve the conflicts
 
-6 Merge your branch into master after resolving the conflicts from the previous step
+6 Merge your branch into master after resolving the conflicts from the previous stepr
 
 7 Push the repo with your branch to github
